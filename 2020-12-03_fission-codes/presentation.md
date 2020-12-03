@@ -3,7 +3,9 @@ title: Simple IoT
 author: Cliff Brake
 ---
 
-# IoT space is exploding right now
+---
+
+# IoT space is expanding
 
 1. Cloud
 1. Compute resources at edge
@@ -12,7 +14,7 @@ author: Cliff Brake
 
 ---
 
-## Cloud
+# Cloud
 
 - Digital Ocean
 - Linode
@@ -22,7 +24,7 @@ author: Cliff Brake
 
 ---
 
-## Compute resources at edge
+# Compute resources at edge
 
 - Embedded Linux
 - many SOC/SOM/SBC options
@@ -31,7 +33,7 @@ author: Cliff Brake
 
 ---
 
-## Connectivty
+# Connectivty
 
 - CAT-M plans (< \$5/mo with generous data allowance, 10's MiB)
 - LoRaWAN
@@ -39,7 +41,7 @@ author: Cliff Brake
 
 ---
 
-## Connected devices
+# Connected devices
 
 - ESP8266/ESP32 (couple \$ WiFi connectivity)
 - LoRaWAN devices
